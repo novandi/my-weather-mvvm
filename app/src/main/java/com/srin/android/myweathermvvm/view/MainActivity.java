@@ -1,7 +1,9 @@
-package com.srin.android.myweathermvvm;
+package com.srin.android.myweathermvvm.view;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.srin.android.myweathermvvm.R;
 
 public class MainActivity extends AppCompatActivity {
 

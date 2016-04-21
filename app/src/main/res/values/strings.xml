@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My weather mvvm</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
 </resources>
